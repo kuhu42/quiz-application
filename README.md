@@ -1,4 +1,4 @@
-## Quiz Application
+### Quiz Application
 This project is a Quiz Application using an innovative approach, leveraging Java Swing for the graphical user interface (GUI) and JDBC for seamless database integration.It addresses the specific needs of educational, training, and evaluative contexts, ensuring secure data storage and facilitating easy access and manipulation of information.
 
 This project emphasises performance and improved services for quiz participants. It grantsteachers the authority to curate question banks and schedule quizzes, while also enabling auto-grading for multiple-choice questions.
